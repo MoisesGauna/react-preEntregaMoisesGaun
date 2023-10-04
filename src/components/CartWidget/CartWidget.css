@@ -1,0 +1,13 @@
+.cart{
+    width: 3rem !important;
+    font-size: 3rem;
+    color:white;
+}
+.ant-scroll-number, .ant-badge-count{
+    margin-left: 26px !important;
+    background-color: blue !important; 
+}
+.anticon{
+    margin-left: 10px;
+
+}
